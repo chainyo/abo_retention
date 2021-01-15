@@ -2,7 +2,7 @@
 
 Après de multiple essais et l'utilisation de différents modèles, il semblerait que le meilleur modèle soit le RandomTreeForest sans utilisation de PCA.
 
-Le réseau de neurones produits des résultats assez aléatoires.
+De son côté, le réseau de neurones produits des résultats assez aléatoires.
 
 ![Matrice de Confusion](./confusion_matrix.png)
 
